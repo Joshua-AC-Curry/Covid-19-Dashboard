@@ -1,0 +1,10 @@
+{
+    "news_apikey" : "INSERT API KEY",
+    "covid_terms" : "Covid COVID-19 coronavirus",
+    "defualt_local_location" : "Exeter",
+    "defualt_local_location_type" : "ltla",
+    "defualt_national_location" : "England",
+    "defualt_national_location_type" : "Nation",
+    "filepath" : "app.log",
+    "image_name" : "covid_image.jpg"
+}
